@@ -1,0 +1,12 @@
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\bin\Debug\FrmLab1.exe.config
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\bin\Debug\FrmLab1.exe
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\bin\Debug\FrmLab1.pdb
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.AssemblyReference.cache
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.FrmFileName.resources
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.FrmLab1.resources
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.Properties.Resources.resources
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.GenerateResource.cache
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.CoreCompileInputs.cache
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.exe
+C:\Users\terencio.268853\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.pdb
